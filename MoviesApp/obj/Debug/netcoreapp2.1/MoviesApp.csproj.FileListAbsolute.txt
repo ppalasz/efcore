@@ -1,0 +1,11 @@
+C:\Projekty\sages\efcore\MoviesApp\bin\Debug\netcoreapp2.1\MoviesApp.deps.json
+C:\Projekty\sages\efcore\MoviesApp\bin\Debug\netcoreapp2.1\MoviesApp.runtimeconfig.json
+C:\Projekty\sages\efcore\MoviesApp\bin\Debug\netcoreapp2.1\MoviesApp.runtimeconfig.dev.json
+C:\Projekty\sages\efcore\MoviesApp\bin\Debug\netcoreapp2.1\MoviesApp.dll
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.csprojAssemblyReference.cache
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.AssemblyInfoInputs.cache
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.AssemblyInfo.cs
+C:\Projekty\sages\efcore\MoviesApp\bin\Debug\netcoreapp2.1\MoviesApp.pdb
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.dll
+C:\Projekty\sages\efcore\MoviesApp\obj\Debug\netcoreapp2.1\MoviesApp.pdb

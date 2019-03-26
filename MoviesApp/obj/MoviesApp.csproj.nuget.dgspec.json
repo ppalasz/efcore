@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projekty\\sages\\efcore\\MoviesApp\\MoviesApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Projekty\\sages\\efcore\\MoviesApp\\MoviesApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projekty\\sages\\efcore\\MoviesApp\\MoviesApp.csproj",
+        "projectName": "MoviesApp",
+        "projectPath": "C:\\Projekty\\sages\\efcore\\MoviesApp\\MoviesApp.csproj",
+        "packagesPath": "C:\\Users\\placek\\.nuget\\packages\\",
+        "outputPath": "C:\\Projekty\\sages\\efcore\\MoviesApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\placek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
